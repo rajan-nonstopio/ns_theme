@@ -1,6 +1,6 @@
 # ns_theme
 
-A new Flutter project. test
+A new Flutter project.
 
 ## Getting Started
 
